@@ -1,6 +1,6 @@
 # WebviewPersistenceCache
 
-RNlWebviewCache is using NSConnectin,  this is based on NSSessionTask.
+the lib,RNlWebviewCache is based on NSConnection,  this is based on NSURLSessionTask.
 
 to do  
 1 UI  add new article ,
